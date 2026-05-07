@@ -13,20 +13,22 @@ This project was first started as a Wokwi project at https://wokwi.com/projects/
 followed by a Verilog implementation for hardware simulations on the Nexuys4 FPGA board.
 </p>
 ## Participants
-Amine HADJ ABDELKADER
-Choukri BENSALAH
-Boublenza Rokia Nassima 
-NEGGAH Asma 
-CHIKH Sofiane Alaa edibine 
-Zitouni Benamar 
-Hammouti Mousseme Eddine 
-Haddouche Arslane 
-Tourabi Marwa 
-Raja Fatima Zohra Ines 
-Nedjadi Fatima 
-Loukili Nacera 
-Bensenane Chahinez 
-Guendouz Fatimazahra
+
+- Amine HADJ ABDELKADER
+- Choukri BENSALAH
+- Boublenza Rokia Nassima 
+- NEGGAH Asma 
+- CHIKH Sofiane Alaa edibine 
+- Zitouni Benamar 
+- Hammouti Mousseme Eddine 
+- Haddouche Arslane 
+- Tourabi Marwa 
+- Raja Fatima Zohra Ines 
+- Nedjadi Fatima 
+- Loukili Nacera 
+- Bensenane Chahinez 
+- Guendouz Fatimazahra
+
 ## Resources
 
 - [FAQ](https://tinytapeout.com/faq/)
