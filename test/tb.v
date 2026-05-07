@@ -27,7 +27,7 @@ module tb ();
   wire VGND = 1'b0;
 `endif
 
-  tt_um_BFD100_Logic (
+  tt_um_BFD100_Logic user_project(
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
